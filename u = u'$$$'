@@ -1,2 +1,3 @@
 >>> u = u'$$$'
 >>> s = u.encode('utf8')
+>>> s'\ArtBoard Image (328).jpg
